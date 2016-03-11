@@ -1,5 +1,9 @@
 package com.apg.bidding;
-
+/**
+ * Bidding System Interface
+ * @author sohil
+ *
+ */
 public interface BiddingSystemInterface {
 	/**
 	 * Creates auction for item owner and returns unique auction id.
