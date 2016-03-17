@@ -2,6 +2,9 @@ package com.apg.bidding.clientStrategy;
 
 import com.apg.bidding.BiddingHandler;
 
+/**
+ * Singleton for getting BiddingHandler
+ */
 public class BiddingHandlerSingleton {
 	
 	private static BiddingHandler singleInstance = null;
