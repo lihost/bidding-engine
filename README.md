@@ -3,7 +3,7 @@ Bidding engine which facilitates bidding and selling of items to users.
 
 Developed using `Java 8` and `Eclipse`.
 
-#### Services facilitated by this system,
+#### Services facilitated by this engine
  * Users is able to put an item for auction
  * Users can place bids on an item
  * Multiple bids are allowed on a single item
