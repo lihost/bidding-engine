@@ -7,11 +7,16 @@ import com.apg.bidding.Bid;
 import com.apg.bidding.BiddingHandler;
 import com.apg.bidding.User;
 
+/**
+ * place bid operation class
+ * 
+ * @author sohil
+ *
+ */
 public class PlaceBid implements ClientOperationInterface {
 
 	@Override
 	public void execute(Scanner sc, User testUser) {
-		// TODO Auto-generated method stub
 		
 		try {
 			BiddingHandler bh = BiddingHandlerSingleton.getInstance();
