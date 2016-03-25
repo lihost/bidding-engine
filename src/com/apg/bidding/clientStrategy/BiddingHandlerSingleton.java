@@ -4,6 +4,7 @@ import com.apg.bidding.BiddingHandler;
 
 /**
  * Singleton for getting BiddingHandler
+ * @author sohil
  */
 public class BiddingHandlerSingleton {
 	
