@@ -24,7 +24,9 @@ import java.util.PriorityQueue;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * Done
+ * BiddingHandler is a handler class which
+ * implements BiddingSystemInterface
+ * 
  * @author sotrived
  *
  */
