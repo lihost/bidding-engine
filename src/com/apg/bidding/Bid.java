@@ -1,7 +1,9 @@
 package com.apg.bidding;
 
 /**
- * Done
+ * Bid is a separate class associating
+ * Auction, User and bidPrice
+ *  
  * @author sohil
  *
  */
