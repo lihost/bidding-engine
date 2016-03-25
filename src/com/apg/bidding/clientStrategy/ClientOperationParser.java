@@ -3,6 +3,11 @@ package com.apg.bidding.clientStrategy;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * Strategy parser for various client operations
+ * @author sohil
+ *
+ */
 public class ClientOperationParser {
 	
 	private String operationString;
