@@ -3,7 +3,9 @@ package com.apg.bidding;
 import java.util.UUID;
 
 /**
- * Done
+ * User class for handling all the users
+ * associated with Bidding Engine
+ * 
  * @author sohil
  *
  */
