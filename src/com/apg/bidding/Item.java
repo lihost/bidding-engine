@@ -1,5 +1,11 @@
 package com.apg.bidding;
 
+/**
+ * Item class for all things item
+ * 
+ * @author sohil
+ *
+ */
 public class Item {
 	private String itemName;
 	private String itemDescription;
