@@ -10,7 +10,9 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 /**
- * Done
+ * Auction class is responsible for handling 
+ * all operations related to auction event
+ * 
  * @author sohil
  *
  */
