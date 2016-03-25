@@ -8,12 +8,17 @@ import com.apg.bidding.Item;
 import com.apg.bidding.User;
 import com.apg.bidding.Util;
 
+/**
+ * CreateAuction operation class
+ * 
+ * @author sohil
+ *
+ */
 public class CreateAuction implements ClientOperationInterface {
 	
 	private String simpleDateFormatPattern = Util.DATE_FORMAT;
 	@Override
 	public void execute(Scanner sc, User testUser) {
-		// TODO Auto-generated method stub
 		try {
 
 			System.out.print("Insert Item name\n >>>: ");
